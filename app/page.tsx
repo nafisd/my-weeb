@@ -6,7 +6,7 @@ import { Sparkles, ChevronRight, Github, Linkedin, Mail } from 'lucide-react'
 
 export default function Home() {
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen px-6 bg-gradient-to-b from-gray-950 to-gray-900">
       {/* Hero Section */}
       <section className="min-h-screen flex items-center justify-center relative overflow-hidden">
         {/* Animated Background Elements */}

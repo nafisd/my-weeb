@@ -15,32 +15,32 @@ export default function Contact() {
 
         <div className="grid md:grid-cols-3 gap-6 mb-12">
           <a 
-            href="mailto:your@email.com" 
+            href="mailto:nafisdifaudin97@gmail.com" 
             className="bg-gray-800/50 p-8 rounded-2xl border border-gray-700 hover:border-yellow-400 transition-all hover:scale-105"
           >
             <Mail className="mx-auto mb-4 text-yellow-400" size={40} />
             <h3 className="font-bold mb-2">Email</h3>
-            <p className="text-gray-400 text-sm">your@email.com</p>
+            <p className="text-gray-400 text-sm">nafisdifaudin97@gmail.com</p>
           </a>
           <a 
-            href="https://github.com/yourusername"
+            href="https://github.com/nafisd"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gray-800/50 p-8 rounded-2xl border border-gray-700 hover:border-yellow-400 transition-all hover:scale-105"
           >
             <Github className="mx-auto mb-4 text-yellow-400" size={40} />
             <h3 className="font-bold mb-2">GitHub</h3>
-            <p className="text-gray-400 text-sm">@yourusername</p>
+            <p className="text-gray-400 text-sm">@nafisd</p>
           </a>
           <a 
-            href="https://linkedin.com/in/yourusername"
+            href="https://linkedin.com/in/nafis-difaudin"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gray-800/50 p-8 rounded-2xl border border-gray-700 hover:border-yellow-400 transition-all hover:scale-105"
           >
             <Linkedin className="mx-auto mb-4 text-yellow-400" size={40} />
             <h3 className="font-bold mb-2">LinkedIn</h3>
-            <p className="text-gray-400 text-sm">Your Name</p>
+            <p className="text-gray-400 text-sm">Nafis Difaudin</p>
           </a>
         </div>
 
