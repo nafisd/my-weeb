@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { Sparkles, ChevronRight, Github, Linkedin, Mail } from 'lucide-react'
 
+
 export default function Home() {
   return (
     <div className="min-h-screen">

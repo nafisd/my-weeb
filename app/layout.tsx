@@ -23,11 +23,6 @@ export default function RootLayout({
         <main className="pt-20">
           {children}
         </main>
-        <footer className="bg-gray-900 border-t border-gray-800 py-8 px-6">
-          <div className="max-w-7xl mx-auto text-center text-gray-400">
-            <p>© 2024 アニマンガDev. Crafted with ❤️ and ☕</p>
-          </div>
-        </footer>
       </body>
     </html>
   )

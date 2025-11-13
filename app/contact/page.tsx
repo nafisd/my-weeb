@@ -44,9 +44,13 @@ export default function Contact() {
           </a>
         </div>
 
-        <button className="bg-yellow-400 text-gray-900 px-12 py-5 rounded-xl font-bold text-lg hover:bg-yellow-300 transition-all hover:scale-105 shadow-lg shadow-yellow-400/20">
+        <a
+          href="/CV Nafis Difaudin.pdf"
+          download="Nafis-Difaudin-Resume.pdf"
+          className="inline-block bg-yellow-400 text-gray-900 px-12 py-5 rounded-xl font-bold text-lg hover:bg-yellow-300 transition-all hover:scale-105 shadow-lg shadow-yellow-400/20"
+        >
           Download Resume
-        </button>
+        </a>
       </div>
     </div>
   )
